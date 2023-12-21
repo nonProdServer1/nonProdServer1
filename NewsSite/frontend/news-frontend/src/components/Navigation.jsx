@@ -1,3 +1,20 @@
+{
+  /* ******************************************************************************************************* */
+}
+// filename:
+
+// purpose:
+
+// creation-date:
+
+// modified-list:
+
+// developed-by:
+
+{
+  /* ******************************************************************************************************* */
+}
+
 import React from "react";
 import "../App.css";
 
@@ -122,10 +139,13 @@ const Navigation = () => {
             </div>
           </nav>
         </div>
+        {/* ******************************************************************************************************* */}
+        {/* Headline */}
+        {/* ******************************************************************************************************* */}
 
         <div className="border-bottom d-flex">
           <div>
-            <div className="py-2 px-5 bg-danger text-white">Updates</div>
+            <div className="py-2 px-5 bg-danger text-white">Headlines</div>
           </div>
           <div className="px-1" style={{ overflow: "hidden" }}>
             <div id="scrollContent" className="text-secondary">
